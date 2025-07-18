@@ -42,7 +42,7 @@ This app captures live video from your webcam or allows image upload to detect h
 ## 🗂️ Project Structure
 
 ```
-RealTime_Multimodal_Sentiment_Analyzer/
+SentimentAnalysis/
 ├── backend/
 │   └── predict.py                # Loads model and performs emotion detection
 ├── frontend/
